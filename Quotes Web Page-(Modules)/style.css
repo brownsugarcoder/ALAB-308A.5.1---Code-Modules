@@ -1,0 +1,53 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    
+}
+body {
+    background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+    
+}
+
+#container{
+    text-align: center;
+    font-size: 18px;
+    text-align: center;
+    justify-content: center;
+    border: 2px solid black ;
+    background-color: aliceblue;
+    border-radius: 8px;
+    height: 490px;
+    width: 750px;
+    box-shadow: 0 10px 20px 0px;
+    text-align: center;
+   
+    
+}
+
+h2{
+    font-size: 25px;
+    text-align: center;
+    padding-top: 10%;
+    
+}
+
+
+#output{
+    margin:  25px auto;
+    word-wrap: break-all;
+    font-size: 20px; 
+  
+}
+
+#btn {
+    color: white;
+    background: #2c5364;
+    border-radius: 25px;
+    border: 1px solid black;
+    font-size: 1.0rem;
+    margin: 50px auto;
+    width:200px;
+    height:50px;
+    cursor: pointer;
+}
+
